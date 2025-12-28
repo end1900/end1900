@@ -1,2 +1,7 @@
 hi, i'm james
-i'm interested in urban planning and transportation, so i'm building projects related to those areas and learning to code along the way :>
+
+- interested in urban planning and transportation ➞ building projects related to those areas + learning to code along the way
+
+- also into music production & audio engineering :>
+
+<img width="1024" height="576" alt="image" src="https://github.com/user-attachments/assets/e0b4ae7d-04ee-4359-b3f9-27ec6b2ed624" />
