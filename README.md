@@ -1,13 +1,2 @@
-<div align="center">
-👋 yo i'm endy
-env @ uwaterloo  |  building stuff
-
-Show Image
-Show Image
-Show Image
-
-Show Image
-Show Image
-
-making things happen
-</div>
+hi, i'm james
+i'm interested in urban planning and transportation, so i'm building projects related to those areas and learning to code along the way :>
