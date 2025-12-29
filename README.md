@@ -1,5 +1,4 @@
 hi, i'm james
-
-i'm interested in **urban design** and **transportation planning**, so i'm building projects related to those areas and learning more about development
-
+i study planning and am specilizing in **urban design** and **transportation planning**
+i enjoy building projects related to these areas and learning more about development
 <img src="./download.gif" width="700" />
