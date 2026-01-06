@@ -1,4 +1,1 @@
-hi, i'm james
-i study planning and am specilizing in **urban design** and **transportation planning**
-- i enjoy building projects related to these areas and learning more about software development
-<img src="./download.gif" width="700" />
+hi im james
